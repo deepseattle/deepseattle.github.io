@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## The Seattle Deep Learning Meetup
 
-You can use the [editor on GitHub](https://github.com/deepseattle/deepseattle.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We're the Seattle Deep Learning Meetup! We meet every 3-4 weeks to find collaborators for our deep learning projects and present on our deep learning projects. If you're interested in joining the meetup, check out our [meetup.com page](https://www.meetup.com/Seattle-Deep-Learning-Meetup/) to see when our next meetup is happening or [join us on Slack](https://deepseattle.herokuapp.com)!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Active projects
 
-### Markdown
+To see a list of our active projects, you should check out our [projects repository](https://github.com/deepseattle/projects). The repository contains a list of active projects, contact info for the project group leaders.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Organizer contact info
 
-```markdown
-Syntax highlighted code block
+You'll find the meetup organizers on our [Slack](https://deepseattle.herokuapp.com).
 
-# Header 1
-## Header 2
-### Header 3
+| Name     | Role                   | Slack username |
+| -------- | ---------------------- | -------------- |
+| Benjamin | Organizer              | @sagelywizard  |
+| Adam     | Organizer              | @adamcox       |
+| Vai      | Github Org Manager     | @neunone       |
+| Don      | Meetup Speaker Manager | @don           |
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/deepseattle/deepseattle.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
