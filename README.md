@@ -17,4 +17,6 @@ You'll find the meetup organizers on our [Slack](https://deepseattle.herokuapp.c
 | Vai      | Github Org Manager     | @neunone       |
 | Don      | Meetup Speaker Manager | @don           |
 
+### Slides
 
+You can find the slides for our previous meetups [here](https://drive.google.com/drive/folders/0B-EvW0MKoTHXc0w5dU1KM0pWVFU?usp=sharing).
